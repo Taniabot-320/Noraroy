@@ -1,2 +1,130 @@
 Bby Nora love roy
 Bby Nora bf roy
+[
+	{
+		"key": "sb",
+		"value": "W0MlaRbzds_VaxC870RkmzAS",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "datr",
+		"value": "FEQlaRdNyC5Es530ohliD3Dx",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_GB",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B728x360x3",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "pas",
+		"value": "61583280249701%3AteSjQKl5Kc",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "m_pixel_ratio",
+		"value": "3",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "wd",
+		"value": "360x820",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61583280249701",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "xs",
+		"value": "4%3A2kuRtFmYAiWNCw%3A2%3A1764237665%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "fr",
+		"value": "0uCVFpuyB5v4P46B0.AWec3zo9k0ZcQZcq9slfcsXTcfcg2yRmaVzH0pcXYA7uEP4vS-U.BpJUQU..AAA.0.0.BpKCFi.AWcZX8sJTxo2t8mkUNwK6GbgJDM",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101422881%3BT%3A29403961",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A2995%3Btimestamp%3A1764237667",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-11-27T10:01:14.959Z",
+		"lastAccessed": "2025-11-27T10:01:14.959Z"
+	}
+]
