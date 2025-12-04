@@ -3,7 +3,7 @@ src="https://i.imgur.com/Mmo26FF.jpeg" alt="banner">
 
 <h1 align="center">
   <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="22px" alt="icon">
-  Hinata Bot - Bot Chat Messenger
+  Røy Ñørã - Bot Chat Messenger
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@ If you find any issues, please report them!
   <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
->🎀 Mah MUD
+>🎀 Røy Røy
 </h5>
 
 
@@ -50,5 +50,5 @@ Tutorial has been uploaded on YouTube
 <img align="center" src="https://i.imgur.com/UM3ekFf.jpeg"/>
 
 
-🔹ARIYAN MAHMUD
+🔹Røy Røy
 
