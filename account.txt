@@ -3,7 +3,7 @@
 		"key": "sb",
 		"value": "W0MlaRbzds_VaxC870RkmzAS",
 		"domain": "facebook.com",
-		"path": "/",
+		"path": "/", 
 		"hostOnly": false,
 		"creation": "2025-12-04T17:16:19.564Z",
 		"lastAccessed": "2025-12-04T17:16:19.565Z"
