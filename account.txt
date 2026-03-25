@@ -10,7 +10,7 @@
 	},
 	{
 		"key": "sb",
-		"value": "nX--aZjC8Ofy64wCGyOIJpgh",
+		"value": "nX--aZjC8Ofy64wCGyOIJpgh", 
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
